@@ -97,4 +97,3 @@ Signup successful!
 ## Author
 
 **B S Lakshmi Prerana**
-Kendriya Vidyalaya AFS Yelahanka, Bengaluru – 560063
